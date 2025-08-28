@@ -70,7 +70,3 @@ npm run dev
 👉 Backend runs on: http://localhost:4000
 
 ---
-
-✅ This way, GitHub will properly format your backend and frontend commands separately.  
-
-Do you want me to also prepare a **badge section (MongoDB, Express, React, Node)** at the very top so your README looks like a professional open-source project?
